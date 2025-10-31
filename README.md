@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer from India, crafting web applications with modern technologies. I love building practical solutions that solve real-world problems, from expense trackers to authentication systems.
+I'm a passionate Backend Developer from India, crafting web applications with modern technologies. I love building practical solutions that solve real-world problems, from expense trackers to authentication systems.
 
 ## 💻 Tech Stack
 
